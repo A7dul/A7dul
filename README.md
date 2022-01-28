@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Abdul Rahman finished my BEng (Hons) in Software Engineering.
+- 👀 I’m interested in software development with the ability to work in both Front-end and Backend programming  
+- 🌱 I’m currently learning several framworks such as Pega, Node.JS, Angular whi;e i have been already working on Codigniter, VS & Laravel
+- 💞️ I’m looking to collaborate on web development and other other projects to proove and present my skills.
+- 📫 Contact Mail: abd77admi@gmail.com
